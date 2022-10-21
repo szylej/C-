@@ -1,0 +1,12 @@
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\RPNTest.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\RPNTest.pdb
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\nunit.framework.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\RPN.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\RPN.pdb
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\nunit.framework.pdb
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\bin\Debug\nunit.framework.xml
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\obj\Debug\RPNTest.csproj.AssemblyReference.cache
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\obj\Debug\RPNTest.csproj.CoreCompileInputs.cache
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\obj\Debug\RPNTest.csproj.CopyComplete
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\obj\Debug\RPNTest.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPNTest\obj\Debug\RPNTest.pdb

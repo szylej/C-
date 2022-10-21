@@ -1,0 +1,6 @@
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\bin\Debug\RPN.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\bin\Debug\RPN.pdb
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\obj\Debug\RPNCalulator.csproj.AssemblyReference.cache
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\obj\Debug\RPNCalulator.csproj.CoreCompileInputs.cache
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\obj\Debug\RPN.dll
+C:\Users\Matiszor\Desktop\01_rpn-szylej-main\RPN\RPN\obj\Debug\RPN.pdb
